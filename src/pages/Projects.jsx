@@ -20,7 +20,7 @@ const projects = [
     title: "portfolio web page",
     description: "design peronal porfolio web app",
     imageUrl: portfolio,
-    projectLink: "https://vikas.pote.portfolio.vercel.app",
+    projectLink: "https://vikaspoteportfolio-j0ml4i8hg-vikas-potes-projects.vercel.app"
     isComplete: true,
   },
   {
