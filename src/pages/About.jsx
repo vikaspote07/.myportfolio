@@ -42,6 +42,7 @@ const About = () => {
                 "JavaScript",
                 "Node.js",
                 "React",
+                "Redux",
                 "Tailwind CSS",
               ].map((skill, index) => (
                 <motion.li
