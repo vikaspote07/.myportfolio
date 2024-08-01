@@ -1,7 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Projects from "../pages/Projects";
-// import WorkExperience from "../pages/WorkExperience";
 import WorkExperience from "../pages/WorkExperience ";
 import Contact from "../pages/Contact";
 import Skills from "../pages/Skills";
