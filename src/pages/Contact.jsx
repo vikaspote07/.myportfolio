@@ -4,10 +4,10 @@ import { FaGithub, FaLinkedin, FaTwitter, FaEnvelope } from "react-icons/fa";
 
 const Contact = () => {
   const socialLinks = [
-    { icon: FaGithub, url: "https://github.com/yourusername" },
-    { icon: FaLinkedin, url: "https://linkedin.com/in/yourusername" },
-    { icon: FaTwitter, url: "https://twitter.com/yourusername" },
-    { icon: FaEnvelope, url: "mailto:your.email@example.com" },
+    { icon: FaGithub, url: "https://github.com" },
+    { icon: FaLinkedin, url: "www.linkedin.com/in/vikas-pote-b4ba87187" }, //linkdn url added
+    { icon: FaTwitter, url: "https://twitter.com" },
+    { icon: FaEnvelope, url: "gmail.com" },
   ];
 
   return (
