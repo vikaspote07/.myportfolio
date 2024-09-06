@@ -14,14 +14,14 @@ const projects = [
     description: "A full-stack online shopping platform with React and Node.js",
     imageUrl: ecomm,
     projectLink: "https://shop-lee.vercel.app",
-    isComplete: true,
+    isComplete: false,
   },
   {
     title: "portfolio web page",
     description: "design peronal porfolio web app",
     imageUrl: portfolio,
     projectLink:"https://vikaspoteportfolio-vikas-potes-projects.vercel.app",
-    isComplete: true,
+    isComplete: false,
   },
   {
     title: "Weather App",
